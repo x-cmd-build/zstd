@@ -1,2 +1,2 @@
-https://github.com/facebook/zst
+https://github.com/facebook/zstd
 static build
